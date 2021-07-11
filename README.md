@@ -6,6 +6,8 @@
 
 A quick and easy dictionary implementation for PHP.
 
+This package was initially ported (and upgraded) from [here](https://github.com/dpolac/dictionary).
+
 ## Installation
 
 You can install the package via composer:
